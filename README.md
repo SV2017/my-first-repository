@@ -13,3 +13,5 @@ git add . // adds all the changed files to staging
 git commit -m "Commit message"
 
 git push // pushes local commits to the cloud
+
+git branch -a
