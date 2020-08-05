@@ -6,4 +6,4 @@ my second commit
 
 Matt's commit
 
-Matt's Second commit
+## Git Commands
