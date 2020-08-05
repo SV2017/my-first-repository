@@ -9,3 +9,5 @@ Matt's commit
 ## Git Commands
 
 git add . // adds all the changed files to staging
+
+git commit -m "Commit message"
